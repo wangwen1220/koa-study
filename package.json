@@ -1,0 +1,21 @@
+{
+  "name": "koa-start",
+  "version": "1.0.0",
+  "description": "Koa study demos",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "koa",
+    "async"
+  ],
+  "author": "steven",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-json": "^2.0.2",
+    "koa-route": "^3.2.0",
+    "koa-static": "^5.0.0"
+  }
+}
